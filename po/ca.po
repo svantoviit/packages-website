@@ -216,7 +216,7 @@ msgid "Found <b>nothing</b> while searching for"
 msgstr ""
 
 #: ../templates/packages_area.html:24
-msgid "you probably mispelled it"
+msgid "you probably misspelled it"
 msgstr ""
 
 #: ../templates/packages_area.html:55
